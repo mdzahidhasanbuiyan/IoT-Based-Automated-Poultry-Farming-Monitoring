@@ -1,4 +1,4 @@
-# IoT-Based Smart Poultry Farming System
+# IoT Based Automated Early Detection and Real Time Environmental Monitoring for Poultry Farming in Developing Countries
 
 An **IoT-based Smart Poultry Farming System** for **real-time environmental monitoring, early detection, and automated control** using **ESP32** and **ThingSpeak**. The system continuously monitors critical poultry house parameters, including:
 
